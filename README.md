@@ -12,9 +12,9 @@ Join our [Discord channel](https://discord.com/invite/mr9TAhpyBW).
 
 ## Carreers
 
-If you have background in any of these or related fields (or are excited to learn):
+If you have background in one or ideally more of the following (and related) fields (or are excited to learn):
 - [integrable systems](https://en.wikipedia.org/wiki/Integrable_system)
-- category theory,
+- category theory
 - functional programming
 - compilers
 - statistical mechanics
