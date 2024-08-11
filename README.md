@@ -1,4 +1,3 @@
-
 # traceoid.ai
 
 [traceoid.ai](http://traceoid.ai) is making energy-based models (EBMs) viable by revisiting some of the math that underlies machine learning. [Here is what Yann LeCun had to say about EBMs](https://x.com/ylecun/status/1380066315600343042). Our interpretation of EBMs will provide: interpretability, composability [^composability], faster & cheaper training and inference etc.
