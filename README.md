@@ -24,7 +24,7 @@ please reach out. Ideal candidate would understand how one goes about writing hi
 
 Our company operates at the intersection of research & development, and as a part of this job, you will be reading papers and implementing some very cool research from the above fields.
 
-We are currently in the final stages of establishing the company and to that end, we are in the process of working out the exact positions, salary ranges and such. As a result, we might not be officially hiring for another couple weeks or so. That being said, if the job sounds interesting, please do not hesitate and contact us at adamnemecek+hnhiring@gmail.com or over [Discord](https://discord.com/invite/mr9TAhpyBW)
+We are currently in the final stages of establishing the company and to that end, we are in the process of working out the exact positions, salary ranges and such. As a result, we might not be officially hiring for another couple weeks. That being said, if the job sounds interesting, please do not hesitate and contact us at adamnemecek+hnhiring@gmail.com or over [Discord](https://discord.com/invite/mr9TAhpyBW)
 
 
 ## Investments
