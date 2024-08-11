@@ -12,7 +12,15 @@ Join our [Discord channel](https://discord.com/invite/mr9TAhpyBW).
 
 ## Carreers
 
-If you have background in any of these or related fields (or are excited to learn): [integrable systems](https://en.wikipedia.org/wiki/Integrable_system), category theory, functional programming, compilers, statistical mechanics, computational physics, please reach out. Ideal candidate would understand how one goes about writing high perf code as well as be able to explain the concept of a Hamiltonian.
+If you have background in any of these or related fields (or are excited to learn):
+- [integrable systems](https://en.wikipedia.org/wiki/Integrable_system)
+- category theory,
+- functional programming
+- compilers
+- statistical mechanics
+- computational physics
+
+please reach out. Ideal candidate would understand how one goes about writing high perf code as well as be able to explain the concept of a Hamiltonian.
 
 Our company operates at the intersection of research & development, and as a part of this job, you will be reading papers and implementing some very cool research from the above fields.
 
