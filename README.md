@@ -12,6 +12,7 @@ Join our [Discord channel](https://discord.com/invite/mr9TAhpyBW).
 
 If you have background in one or ideally more of the following (and related) fields (or are excited to learn):
 - [integrable systems](https://en.wikipedia.org/wiki/Integrable_system)
+- algebraic topology
 - category theory
 - functional programming
 - compilers
