@@ -24,6 +24,8 @@ If you have background in one or ideally more of the following (and related) fie
 
 please reach out. Ideal candidate would understand how one goes about writing high perf code as well as be able to explain the concept of a Hamiltonian.
 
+__If you have experience with any of the above (or related), but have no machine learning experience, and are consider applying, please do not hesitate and reach out.__
+
 Our company operates at the intersection of research & development, and as a part of this job, you will be reading papers and implementing some very cool research from the above fields.
 
 We are currently in the final stages of establishing the company and to that end, we are in the process of working out the exact positions, salary ranges and such. As a result, we might not be officially hiring for another couple weeks. That being said, if the job sounds interesting, please do not hesitate and contact us at adamnemecek+careers@gmail.com or over [Discord](https://discord.com/invite/mr9TAhpyBW)
