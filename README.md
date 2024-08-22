@@ -21,6 +21,7 @@ If you have background in one or ideally more of the following (and related) fie
 - quantum groups
 - matroid theory
 - harmonic analysis
+- theorem provers
 
 please reach out. Ideal candidate would understand how one goes about writing high perf code as well as be able to explain the concept of a Hamiltonian.
 
