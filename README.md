@@ -24,7 +24,7 @@ If you have background in one or ideally more of the following (and related) fie
 - theorem provers
 - computer algebra systems
 
-please reach out. Ideal candidate would understand how one goes about writing high perf code as well as be able to explain the concept of a Hamiltonian.
+please reach out. Ideal candidate would understand how one goes about writing high perf code as well as be able to explain the concept of a Hamiltonian. You will be joining a team with several PhDs and while advanced degrees are not a hard requirement, you are expected to possess deep knowledge of your field.
 
 __If you have experience with any of the above (or related), but have no machine learning experience, and are consider applying, please do not hesitate and reach out.__
 
