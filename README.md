@@ -8,11 +8,15 @@ Our thesis is that there is 100 years of physics and math research that has gone
 
 Join our [Discord channel](https://discord.com/invite/mr9TAhpyBW).
 
+## Product
+
+We are building a language and a compiler tailored towards optimization and machine learning, in particular EBMs. Our approach leverages advanced approaches from math and physics to achieve the desirable properties above.
+
 ## Careers
 
-If you have background in one or ideally more of the following (and related) fields (or are excited to learn):
+Please reach out if you have background in one or ideally more of the following (and related) fields (or are excited to learn):
 - [integrable systems](https://en.wikipedia.org/wiki/Integrable_system)
-- algebraic topology (in particular Hopf algebras)
+- algebraic topology (in particular Hopf algebras, tensor categories)
 - category theory
 - functional programming
 - compilers
@@ -23,8 +27,10 @@ If you have background in one or ideally more of the following (and related) fie
 - harmonic analysis
 - theorem provers
 - computer algebra systems
+- numerical computation
+- algebraic geometry
 
-please reach out. Ideal candidate would understand how one goes about writing high perf code as well as be able to explain the concept of a Hamiltonian. You will be joining a team with several PhDs and while advanced degrees are not a hard requirement, you are expected to possess deep knowledge of your field.
+Ideal candidate would understand how one goes about writing high perf code as well as be able to explain the concept of a Hamiltonian. You will be joining a team with several PhDs and while advanced degrees are not a hard requirement, you are expected to possess deep knowledge of your field.
 
 __If you have experience with any of the above (or related), but have no machine learning experience, and are consider applying, please do not hesitate and reach out.__
 
@@ -34,11 +40,14 @@ We are currently in the final stages of establishing the company and to that end
 
 All positions are fully remote.
 
+<!-- ## Interview process
+
+After the intro call, you will be sent a list of 3  -->
+
 
 ## Investments
 
 While we are currently finalizing investments, there might still be some space left in the current round, so if you are interested in hearing the pitch, please reach out to adamnemecek+vc@gmail.com or over [Discord](https://discord.com/invite/mr9TAhpyBW).
-
 
 
 [^composability]: Creating larger models from smaller models.
