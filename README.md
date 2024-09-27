@@ -47,7 +47,7 @@ After the intro call, you will be sent a list of 3  -->
 
 ## Investments
 
-While we are currently finalizing investments, there might still be some space left in the current round, so if you are interested in hearing the pitch, please reach out to adamnemecek+vc@gmail.com or over [Discord](https://discord.com/invite/mr9TAhpyBW).
+While we are currently not raising money, this might change in the next year or so. If you might be interested in investing in the future, please reach out now, either via email at adamnemecek+vc@gmail.com or over [Discord](https://discord.com/invite/mr9TAhpyBW).
 
 
 [^composability]: Creating larger models from smaller models.
