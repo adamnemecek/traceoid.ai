@@ -2,7 +2,7 @@
 
 [traceoid.ai](http://traceoid.ai) is scaling energy-based models (EBMs) by revisiting the math that underlies machine learning. [Here is what Yann LeCun had to say about EBMs](https://x.com/ylecun/status/1380066315600343042). Our interpretation of EBMs will provide: interpretability, composability [^composability], faster & cheaper training and inference etc.
 
-__If we succeed, our approach will mark a significant step forward towards achieving AGI__.
+__Our approach will mark a significant step forward towards achieving AGI__.
 
 Our thesis is that there is 100 years of physics and math research that has gone unnoticed by the CS/ML communities and we intend to rectify that.
 
