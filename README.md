@@ -36,7 +36,7 @@ __If you have experience with any of the above (or related), but have no machine
 
 Our company operates at the intersection of research & development, and as a part of this job, you will be reading papers and implementing some very cool research from the above fields.
 
-We are currently in the final stages of establishing the company and to that end, we are in the process of working out the exact positions, salary ranges and such. As a result, we might not be officially hiring for another couple weeks. That being said, if the job sounds interesting, please do not hesitate and contact us at adamnemecek+careers@gmail.com or over [Discord](https://discord.com/invite/mr9TAhpyBW).
+If the job sounds interesting, please do not hesitate and contact us at adam+careers@traceoid.ai or over [Discord](https://discord.com/invite/mr9TAhpyBW).
 
 All positions are fully remote.
 
@@ -47,7 +47,7 @@ After the intro call, you will be sent a list of 3  -->
 
 ## Investments
 
-While we are currently not raising money, this might change in the next year or so. If you might be interested in investing in the future, please reach out now, either via email at adamnemecek+vc@gmail.com or over [Discord](https://discord.com/invite/mr9TAhpyBW).
+In late 2024, we raised a round of funding and to that end, we are currently not raising money, however this might change in the next year or so. If you might be interested in investing in the future, please reach out now, either via email at adam+vc@traceoid.ai or over [Discord](https://discord.com/invite/mr9TAhpyBW).
 
 
 [^composability]: Creating larger models from smaller models.
