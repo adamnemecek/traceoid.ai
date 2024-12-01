@@ -47,7 +47,6 @@ After the intro call, you will be sent a list of 3  -->
 
 ## Investments
 
-In late 2024, we raised a round of funding and to that end, we are currently not raising money, however this might change in the next year or so. If you might be interested in investing in the future, please reach out now, either via email at adam+vc@traceoid.ai or over [Discord](https://discord.com/invite/mr9TAhpyBW).
-
+We recently finished a VC funding round and we are currently not raising additional funding. However, if you might be interested in investing in the future, please reach out now, either over email at adam+vc@traceoid.ai or over [Discord](https://discord.com/invite/mr9TAhpyBW).
 
 [^composability]: Creating larger models from smaller models.
